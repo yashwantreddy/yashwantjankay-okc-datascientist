@@ -1,0 +1,6 @@
+Just enter:
+
+python -m pytest challenge1_test.py
+
+into the command line to run the test.
+
